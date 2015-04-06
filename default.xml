@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<remote fullname="github"
+		fetch="https://github.com/legit-fr" />
+
+	<default revision="refs/heads/master"
+		 remote="github"
+		 sync-j="4" />
+
+
+	<project fullname="utils.manifest" remote="github" path="utils/manifest"/>
+
+	<project 
+		fullname="Code civil" 
+		remote="github" 
+		name="loi.leg.code_civil"
+		path="loi/leg/code_civil"/>
+	<project 
+		fullname="Code de commerce" 
+		remote="github" 
+		name="loi.leg.code_de_commerce"
+		path="loi/leg/code_de_commerce"/>
+	<project 
+		fullname="Code de déontologie de la police nationale" 
+		remote="github" 
+		name="loi.leg.code_de_deontologie_de_la_police_nationale"
+		path="loi/leg/code_de_deontologie_de_la_police_nationale"/>
+	<project 
+		fullname="Code de déontologie des agents de police municipale" 
+		remote="github" 
+		name="loi.leg.code_de_deontologie_des_agents_de_police_municipale"
+		path="loi/leg/code_de_deontologie_des_agents_de_police_municipale"/>
+	<project 
+		fullname="Code de déontologie des architectes" 
+		remote="github" 
+		name="loi.leg.code_de_deontologie_des_architectes"
+		path="loi/leg/code_de_deontologie_des_architectes"/>
+	<project 
+		fullname="Code de justice administrative" 
+		remote="github" 
+		name="loi.leg.code_de_justice_administrative"
+		path="loi/leg/code_de_justice_administrative"/>
+	<project 
+		fullname="Code de justice militaire (nouveau)" 
+		remote="github" 
+		name="loi.leg.code_de_justice_militaire_(nouveau)"
+		path="loi/leg/code_de_justice_militaire_(nouveau)"/>
+	<project 
+		fullname="Code de la consommation" 
+		remote="github" 
+		name="loi.leg.code_de_la_consommation"
+		path="loi/leg/code_de_la_consommation"/>
+	<project 
+		fullname="Code de la construction et de l'habitation" 
+		remote="github" 
+		name="loi.leg.code_de_la_construction_et_de_l_habitation"
+		path="loi/leg/code_de_la_construction_et_de_l_habitation"/>
+	<project 
+		fullname="Code de l'action sociale et des familles" 
+		remote="github" 
+		name="loi.leg.code_de_l_action_sociale_et_des_familles"
+		path="loi/leg/code_de_l_action_sociale_et_des_familles"/>
+	<project 
+		fullname="Code de la défense" 
+		remote="github" 
+		name="loi.leg.code_de_la_defense"
+		path="loi/leg/code_de_la_defense"/>
+	<project 
+		fullname="Code de la famille et de l'aide sociale" 
+		remote="github" 
+		name="loi.leg.code_de_la_famille_et_de_l_aide_sociale"
+		path="loi/leg/code_de_la_famille_et_de_l_aide_sociale"/>
+	<project 
+		fullname="Code de la légion d'honneur et de la médaille militaire" 
+		remote="github" 
+		name="loi.leg.code_de_la_legion_d_honneur_et_de_la_medaille_militaire"
+		path="loi/leg/code_de_la_legion_d_honneur_et_de_la_medaille_militaire"/>
+	<project 
+		fullname="Code de la mutualité" 
+		remote="github" 
+		name="loi.leg.code_de_la_mutualite"
+		path="loi/leg/code_de_la_mutualite"/>
+	<project 
+		fullname="Code de la propriété intellectuelle" 
+		remote="github" 
+		name="loi.leg.code_de_la_propriete_intellectuelle"
+		path="loi/leg/code_de_la_propriete_intellectuelle"/>
+	<project 
+		fullname="Code de la recherche" 
+		remote="github" 
+		name="loi.leg.code_de_la_recherche"
+		path="loi/leg/code_de_la_recherche"/>
+	<project 
+		fullname="Code de la route" 
+		remote="github" 
+		name="loi.leg.code_de_la_route"
+		path="loi/leg/code_de_la_route"/>
+	<project 
+		fullname="Code de l'artisanat" 
+		remote="github" 
+		name="loi.leg.code_de_l_artisanat"
+		path="loi/leg/code_de_l_artisanat"/>
+	<project 
+		fullname="Code de la santé publique" 
+		remote="github" 
+		name="loi.leg.code_de_la_sante_publique"
+		path="loi/leg/code_de_la_sante_publique"/>
+	<project 
+		fullname="Code de la sécurité intérieure" 
+		remote="github" 
+		name="loi.leg.code_de_la_securite_interieure"
+		path="loi/leg/code_de_la_securite_interieure"/>
+	<project 
+		fullname="Code de la sécurité sociale" 
+		remote="github" 
+		name="loi.leg.code_de_la_securite_sociale"
+		path="loi/leg/code_de_la_securite_sociale"/>
+	<project 
+		fullname="Code de l'aviation civile" 
+		remote="github" 
+		name="loi.leg.code_de_l_aviation_civile"
+		path="loi/leg/code_de_l_aviation_civile"/>
+	<project 
+		fullname="Code de la voirie routière" 
+		remote="github" 
+		name="loi.leg.code_de_la_voirie_routiere"
+		path="loi/leg/code_de_la_voirie_routiere"/>
+	<project 
+		fullname="Code de l'éducation" 
+		remote="github" 
+		name="loi.leg.code_de_l_education"
+		path="loi/leg/code_de_l_education"/>
+	<project 
+		fullname="Code de l'énergie" 
+		remote="github" 
+		name="loi.leg.code_de_l_energie"
+		path="loi/leg/code_de_l_energie"/>
+	<project 
+		fullname="Code de l'entrée et du séjour des étrangers et du droit d'asile" 
+		remote="github" 
+		name="loi.leg.code_de_l_entree_et_du_sejour_des_etrangers_et_du_droit_d_asile"
+		path="loi/leg/code_de_l_entree_et_du_sejour_des_etrangers_et_du_droit_d_asile"/>
+	<project 
+		fullname="Code de l'environnement" 
+		remote="github" 
+		name="loi.leg.code_de_l_environnement"
+		path="loi/leg/code_de_l_environnement"/>
+	<project 
+		fullname="Code de l'expropriation pour cause d'utilité publique" 
+		remote="github" 
+		name="loi.leg.code_de_l_expropriation_pour_cause_d_utilite_publique"
+		path="loi/leg/code_de_l_expropriation_pour_cause_d_utilite_publique"/>
+	<project 
+		fullname="Code de l'organisation judiciaire" 
+		remote="github" 
+		name="loi.leg.code_de_l_organisation_judiciaire"
+		path="loi/leg/code_de_l_organisation_judiciaire"/>
+	<project 
+		fullname="Code de l'urbanisme" 
+		remote="github" 
+		name="loi.leg.code_de_l_urbanisme"
+		path="loi/leg/code_de_l_urbanisme"/>
+	<project 
+		fullname="Code de procédure civile" 
+		remote="github" 
+		name="loi.leg.code_de_procedure_civile"
+		path="loi/leg/code_de_procedure_civile"/>
+	<project 
+		fullname="Code de procédure pénale" 
+		remote="github" 
+		name="loi.leg.code_de_procedure_penale"
+		path="loi/leg/code_de_procedure_penale"/>
+	<project 
+		fullname="Code des assurances" 
+		remote="github" 
+		name="loi.leg.code_des_assurances"
+		path="loi/leg/code_des_assurances"/>
+	<project 
+		fullname="Code des communes" 
+		remote="github" 
+		name="loi.leg.code_des_communes"
+		path="loi/leg/code_des_communes"/>
+	<project 
+		fullname="Code des communes de la Nouvelle-Calédonie" 
+		remote="github" 
+		name="loi.leg.code_des_communes_de_la_nouvelle-caledonie"
+		path="loi/leg/code_des_communes_de_la_nouvelle-caledonie"/>
+	<project 
+		fullname="Code des douanes" 
+		remote="github" 
+		name="loi.leg.code_des_douanes"
+		path="loi/leg/code_des_douanes"/>
+	<project 
+		fullname="Code des douanes de Mayotte" 
+		remote="github" 
+		name="loi.leg.code_des_douanes_de_mayotte"
+		path="loi/leg/code_des_douanes_de_mayotte"/>
+	<project 
+		fullname="Code des instruments monétaires et des médailles" 
+		remote="github" 
+		name="loi.leg.code_des_instruments_monetaires_et_des_medailles"
+		path="loi/leg/code_des_instruments_monetaires_et_des_medailles"/>
+	<project 
+		fullname="Code des juridictions financières" 
+		remote="github" 
+		name="loi.leg.code_des_juridictions_financieres"
+		path="loi/leg/code_des_juridictions_financieres"/>
+	<project 
+		fullname="Code des marchés publics (édition 2006)" 
+		remote="github" 
+		name="loi.leg.code_des_marches_publics_(edition_2006)"
+		path="loi/leg/code_des_marches_publics_(edition_2006)"/>
+	<project 
+		fullname="Code des pensions civiles et militaires de retraite" 
+		remote="github" 
+		name="loi.leg.code_des_pensions_civiles_et_militaires_de_retraite"
+		path="loi/leg/code_des_pensions_civiles_et_militaires_de_retraite"/>
+	<project 
+		fullname="Code des pensions de retraite des marins français du commerce, de pêche ou de plaisance" 
+		remote="github" 
+		name="loi.leg.code_des_pensions_de_retraite_des_marins_francais_du_commerce_de_peche_ou_de_plaisance"
+		path="loi/leg/code_des_pensions_de_retraite_des_marins_francais_du_commerce_de_peche_ou_de_plaisance"/>
+	<project 
+		fullname="Code des pensions militaires d'invalidité et des victimes de la guerre" 
+		remote="github" 
+		name="loi.leg.code_des_pensions_militaires_d_invalidite_et_des_victimes_de_la_guerre"
+		path="loi/leg/code_des_pensions_militaires_d_invalidite_et_des_victimes_de_la_guerre"/>
+	<project 
+		fullname="Code des ports maritimes" 
+		remote="github" 
+		name="loi.leg.code_des_ports_maritimes"
+		path="loi/leg/code_des_ports_maritimes"/>
+	<project 
+		fullname="Code des postes et des communications électroniques" 
+		remote="github" 
+		name="loi.leg.code_des_postes_et_des_communications_electroniques"
+		path="loi/leg/code_des_postes_et_des_communications_electroniques"/>
+	<project 
+		fullname="Code des procédures civiles d'exécution" 
+		remote="github" 
+		name="loi.leg.code_des_procedures_civiles_d_execution"
+		path="loi/leg/code_des_procedures_civiles_d_execution"/>
+	<project 
+		fullname="Code des transports" 
+		remote="github" 
+		name="loi.leg.code_des_transports"
+		path="loi/leg/code_des_transports"/>
+	<project 
+		fullname="Code disciplinaire et pénal de la marine marchande" 
+		remote="github" 
+		name="loi.leg.code_disciplinaire_et_penal_de_la_marine_marchande"
+		path="loi/leg/code_disciplinaire_et_penal_de_la_marine_marchande"/>
+	<project 
+		fullname="Code du cinéma et de l'image animée" 
+		remote="github" 
+		name="loi.leg.code_du_cinema_et_de_l_image_animee"
+		path="loi/leg/code_du_cinema_et_de_l_image_animee"/>
+	<project 
+		fullname="Code du domaine de l'Etat" 
+		remote="github" 
+		name="loi.leg.code_du_domaine_de_l_etat"
+		path="loi/leg/code_du_domaine_de_l_etat"/>
+	<project 
+		fullname="Code du domaine de l'Etat et des collectivités publiques applicable à la collectivité territoriale de Mayotte" 
+		remote="github" 
+		name="loi.leg.code_du_domaine_de_l_etat_et_des_collectivites_publiques_applicable_a_la_collectivite_territoriale_de_mayotte"
+		path="loi/leg/code_du_domaine_de_l_etat_et_des_collectivites_publiques_applicable_a_la_collectivite_territoriale_de_mayotte"/>
+	<project 
+		fullname="Code du domaine public fluvial et de la navigation intérieure" 
+		remote="github" 
+		name="loi.leg.code_du_domaine_public_fluvial_et_de_la_navigation_interieure"
+		path="loi/leg/code_du_domaine_public_fluvial_et_de_la_navigation_interieure"/>
+	<project 
+		fullname="Code du patrimoine" 
+		remote="github" 
+		name="loi.leg.code_du_patrimoine"
+		path="loi/leg/code_du_patrimoine"/>
+	<project 
+		fullname="Code du service national" 
+		remote="github" 
+		name="loi.leg.code_du_service_national"
+		path="loi/leg/code_du_service_national"/>
+	<project 
+		fullname="Code du sport" 
+		remote="github" 
+		name="loi.leg.code_du_sport"
+		path="loi/leg/code_du_sport"/>
+	<project 
+		fullname="Code du tourisme" 
+		remote="github" 
+		name="loi.leg.code_du_tourisme"
+		path="loi/leg/code_du_tourisme"/>
+	<project 
+		fullname="Code du travail" 
+		remote="github" 
+		name="loi.leg.code_du_travail"
+		path="loi/leg/code_du_travail"/>
+	<project 
+		fullname="Code du travail applicable à Mayotte" 
+		remote="github" 
+		name="loi.leg.code_du_travail_applicable_a_mayotte"
+		path="loi/leg/code_du_travail_applicable_a_mayotte"/>
+	<project 
+		fullname="Code du travail maritime" 
+		remote="github" 
+		name="loi.leg.code_du_travail_maritime"
+		path="loi/leg/code_du_travail_maritime"/>
+	<project 
+		fullname="Code électoral" 
+		remote="github" 
+		name="loi.leg.code_electoral"
+		path="loi/leg/code_electoral"/>
+	<project 
+		fullname="Code forestier (nouveau)" 
+		remote="github" 
+		name="loi.leg.code_forestier_(nouveau)"
+		path="loi/leg/code_forestier_(nouveau)"/>
+	<project 
+		fullname="Code général de la propriété des personnes publiques" 
+		remote="github" 
+		name="loi.leg.code_general_de_la_propriete_des_personnes_publiques"
+		path="loi/leg/code_general_de_la_propriete_des_personnes_publiques"/>
+	<project 
+		fullname="Code général des collectivités territoriales" 
+		remote="github" 
+		name="loi.leg.code_general_des_collectivites_territoriales"
+		path="loi/leg/code_general_des_collectivites_territoriales"/>
+	<project 
+		fullname="Code général des impôts" 
+		remote="github" 
+		name="loi.leg.code_general_des_impots"
+		path="loi/leg/code_general_des_impots"/>
+	<project 
+		fullname="Code général des impôts, annexe 1" 
+		remote="github" 
+		name="loi.leg.code_general_des_impots_annexe_1"
+		path="loi/leg/code_general_des_impots_annexe_1"/>
+	<project 
+		fullname="Code général des impôts, annexe 2" 
+		remote="github" 
+		name="loi.leg.code_general_des_impots_annexe_2"
+		path="loi/leg/code_general_des_impots_annexe_2"/>
+	<project 
+		fullname="Code général des impôts, annexe 3" 
+		remote="github" 
+		name="loi.leg.code_general_des_impots_annexe_3"
+		path="loi/leg/code_general_des_impots_annexe_3"/>
+	<project 
+		fullname="Code général des impôts, annexe 4" 
+		remote="github" 
+		name="loi.leg.code_general_des_impots_annexe_4"
+		path="loi/leg/code_general_des_impots_annexe_4"/>
+	<project 
+		fullname="Code minier" 
+		remote="github" 
+		name="loi.leg.code_minier"
+		path="loi/leg/code_minier"/>
+	<project 
+		fullname="Code minier (nouveau)" 
+		remote="github" 
+		name="loi.leg.code_minier_(nouveau)"
+		path="loi/leg/code_minier_(nouveau)"/>
+	<project 
+		fullname="Code monétaire et financier" 
+		remote="github" 
+		name="loi.leg.code_monetaire_et_financier"
+		path="loi/leg/code_monetaire_et_financier"/>
+	<project 
+		fullname="Code pénal" 
+		remote="github" 
+		name="loi.leg.code_penal"
+		path="loi/leg/code_penal"/>
+	<project 
+		fullname="Code rural (ancien)" 
+		remote="github" 
+		name="loi.leg.code_rural_(ancien)"
+		path="loi/leg/code_rural_(ancien)"/>
+	<project 
+		fullname="Code rural et de la pêche maritime" 
+		remote="github" 
+		name="loi.leg.code_rural_et_de_la_peche_maritime"
+		path="loi/leg/code_rural_et_de_la_peche_maritime"/>
+	<project 
+		fullname="Livre des procédures fiscales" 
+		remote="github" 
+		name="loi.leg.livre_des_procedures_fiscales"
+		path="loi/leg/livre_des_procedures_fiscales"/>
+</manifest>
